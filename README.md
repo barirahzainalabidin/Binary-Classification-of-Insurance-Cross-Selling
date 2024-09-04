@@ -2,7 +2,15 @@
 
 # Notebook Solution
 
+- https://www.kaggle.com/code/barirahzainal/binary-classification-of-insurance
+
+# Metric ROC AUC 
+
+- 0.87814 
+
 # Deployment 
+
+-
 
 # Machine Learning Canvas :
 
